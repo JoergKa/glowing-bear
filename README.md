@@ -1,4 +1,4 @@
-# glowing-bear
+# glowing-beer 
 
 ## chapter 1
 
